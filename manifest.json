@@ -1,7 +1,7 @@
 {
-  "name": "Komayō page",
-  "short_name": "Komayō",
-  "description": "In the mystical light of the full moon, discover the story of Komayō, a bewitching yōkai from Japanese folklore. Seductive and deadly, she lures lost souls into the game of ōgi, absorbing their life energy and dooming them to eternal torment. It&#39;s a tale of fatal attraction and unchecked desire, a poignant warning against the dangers of temptation.",
+  "name": "صفحه کومایو",
+  "short_name": "کومایو",
+  "description": "در نور عرفانی ماه کامل، داستان کومایو، یک یوکای افسونگر از فولکلور ژاپنی را کشف کنید. او اغوا کننده و کشنده، ارواح گمشده را به بازی اوگی می کشاند و انرژی زندگی آنها را جذب می کند و آنها را به عذاب ابدی محکوم می کند. این داستان جذابیت کشنده و میل کنترل نشده است، هشداری تلخ در برابر خطرات وسوسه.",
   "lang": "fa",
   "start_url": "/",
   "display": "standalone",
