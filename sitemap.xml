@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://fa.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <image:image>
+      <image:loc>https://fa.komayo.page/img/asian-woman-desert-dunes-blue-kimono-full-moon-ink-sketch,w_1024.webp</image:loc>
+      <image:title>طرحی با جوهر از یک زن آسیایی در کیمونوی آبی، ایستاده میان تپه‌های شنی صحرا زیر نور ماه کامل</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://fa.komayo.page/favicon/favicon.svg</image:loc>
+      <image:title>کومایو</image:title>
+    </image:image>
   </url>
 </urlset>
